@@ -1,4 +1,4 @@
-# NLP-Emotions-GPU-Accelaration
+# NLP-Emotion-in-text-prediction
 # Dicoding Submission 1 Machine Learning Path
 
 Dataset : kaggle datasets download -d ishantjuyal/emotions-in-text
